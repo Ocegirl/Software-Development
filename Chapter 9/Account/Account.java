@@ -4,7 +4,7 @@ public class Account {
     int id = 0;
     double balance = 0;
     double annualInterestRate = 0;
-    static Date dateCreated = new Date();
+    Date dateCreated = new Date();
 
     Account(){
     }
